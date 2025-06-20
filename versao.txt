@@ -1,3 +1,3 @@
-versao=1.0.0
-link=https://github.com/NeekyYT/Neeky_Media_Player/releases/download/Release/NeekyMediaPlayer.msi
+versao=1.0.2
+link=https://github.com/NeekyYT/Neeky_Media_Player/releases/download/v1.0.2/NeekyMediaPlayer.Setup.1.0.2.exe
 changelog=Correções de bugs, Adicionados mais recursos, Melhorias gerais.
