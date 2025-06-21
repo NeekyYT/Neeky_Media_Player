@@ -1,3 +1,3 @@
-versao=1.0.3
-link=https://github.com/NeekyYT/Neeky_Media_Player/releases/download/v1.0.3/NeekyMediaPlayer.Setup.1.0.3.exe
-changelog=Correções de bugs, Otimização no tempo de exportação de faixas de audios separados, arquivos grandes abrem mais rápido.
+versao=1.0.4
+link=https://github.com/NeekyYT/Neeky_Media_Player/releases/download/v1.0.4/NeekyMediaPlayer.Setup.1.0.4.exe
+changelog=Correções de bugs, Tema do UI do aplicativo modificado, faixas de audio mais otimizadas, auto update checker adicionado.
