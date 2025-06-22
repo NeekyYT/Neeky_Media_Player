@@ -1,3 +1,3 @@
 versao=1.0.5
 link=https://github.com/NeekyYT/Neeky_Media_Player/releases/download/v1.0.5/NeekyMediaPlayer.Setup.1.0.5.exe
-changelog=Tema do UI do aplicativo modificado, Auto update checker melhorado, Icone adicionado e modificado.
+changelog=Tema do UI do aplicativo modificado,{qdl} Auto update checker melhorado,{qdl} Icone adicionado e modificado.
